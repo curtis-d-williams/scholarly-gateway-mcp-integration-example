@@ -1,1 +1,1 @@
-scholarly-gateway-mcp==0.2.1
+scholarly-gateway-mcp==0.2.2
