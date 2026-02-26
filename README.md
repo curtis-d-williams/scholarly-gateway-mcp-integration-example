@@ -1,0 +1,1 @@
+# scholarly-gateway-mcp-integration-example
