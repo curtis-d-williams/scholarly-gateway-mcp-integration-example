@@ -1,0 +1,5 @@
+{
+  "query": "transformers vision arxiv",
+  "limit": 3,
+  "providers": ["arxiv"]
+}
